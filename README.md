@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://arieswaran.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=AD53DC&multiline=true&random=false&width=435&lines=Arieswaran;Game+Developer+%7C+AI+%7C+Automation+" alt="Typing SVG" /></a>
 <br/>
+<br>
 
 <a href="https://arieswaran.github.io">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
