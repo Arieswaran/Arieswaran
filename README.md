@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://github.com/Arieswaran">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1000&pause=100&multiline=true&width=500&height=80&lines=Arieswaran+M;Game+Developer+%7C+AI+Enthusiast+%7C+Discord+Bots+%7C+Automation" alt="Typing SVG" />
-</a>
+<a href="https://arieswaran.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=AD53DC&multiline=true&random=false&width=435&lines=Arieswaran;Game+Developer+%7C+AI+%7C+Automation+" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://arieswaran.github.io">
