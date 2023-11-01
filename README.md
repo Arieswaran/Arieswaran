@@ -35,8 +35,9 @@
 * 💡 Open to collaborating on projects and innovative ideas. 
 
 * 💻 Currently working on making IU themed games <img src="https://img.shields.io/badge/SIMP-red" alt="Professional IU SIMP">
-
-<summary>📈 Stats</summary>
+<br>
+🌠Tech Stack:
+![C++](https://img.shields.io/badge/c#-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/Unity-9999FF.svg?style=for-the-badge&logo=Unity&logoColor=white) ![Nodejs](https://img.shields.io/badge/NodeJs-%23F5792A.svg?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2331A8FF.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 <br>
 My Github Stats
 
@@ -51,3 +52,4 @@ Currently Coding & Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eyhi43vks4par2iaieghswupzu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+[![](https://visitcount.itsvg.in/api?id=arieswaran&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
