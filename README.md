@@ -39,7 +39,7 @@
 💻 Tech Stack:
 <br>
 
-![csharp](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/Unity-9999FF.svg?style=for-the-badge&logo=Unity&logoColor=white) ![Nodejs](https://img.shields.io/badge/NodeJs-%23F5792A.svg?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2331A8FF.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![csharp](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white) ![Nodejs](https://img.shields.io/badge/NodeJs-%23F5792A.svg?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2331A8FF.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 <br>
 My Github Stats
