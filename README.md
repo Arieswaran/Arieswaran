@@ -52,6 +52,6 @@ My Github Stats
 <br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eyhi43vks4par2iaieghswupzu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eyhi43vks4par2iaieghswupzu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31eyhi43vks4par2iaieghswupzu?si=8de0a085c2c045a4)
 
-[![](https://visitcount.itsvg.in/api?id=arieswaran&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arieswaran&label=Profile%20Views&color=11&icon=7&pretty=true)]
